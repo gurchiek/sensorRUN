@@ -1,4 +1,4 @@
-%% RemoteBMX
+% RemoteBMX.m
 %{
   Reed Gurchiek, 2019
    
